@@ -4,4 +4,5 @@ def my_each(word)
   while i < word.length
     i = i + 1
   end
+  word
 end
