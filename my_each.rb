@@ -1,5 +1,5 @@
 def my_each(word)
-  if block_given?
+  #if block_given?
   i = 0
   
   while i < word.length
@@ -8,7 +8,7 @@ def my_each(word)
   end
   
     word
-  else 
-  puts "This block should not run!"
+ # else 
+ # puts "This block should not run!"
   end
 end
