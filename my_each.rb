@@ -1,5 +1,7 @@
 def my_each(word)
-  my_each(word) do |i|
-    pus i
-end
+  i = 0
+  
+  while i < word.length
+    i = i + 1
+  end
 end
