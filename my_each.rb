@@ -8,7 +8,4 @@ def my_each(word)
   end
   
     word
- # else 
- # puts "This block should not run!"
-  #end
 end
