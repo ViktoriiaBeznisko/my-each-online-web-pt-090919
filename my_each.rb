@@ -3,7 +3,7 @@ def my_each(word)
   i = 0
   
   while i < word.length
-  yield
+  yield(word)
     i = i + 1
   end
   word
