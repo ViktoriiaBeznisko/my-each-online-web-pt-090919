@@ -6,5 +6,6 @@ def my_each(word)
     i = i + 1
   end
   word
-else puts "This block should not run!"
+  else 
+  puts "This block should not run!"
 end
