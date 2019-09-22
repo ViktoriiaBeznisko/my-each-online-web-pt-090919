@@ -5,6 +5,7 @@ def my_each(word)
   while i < word.length
     yield(word[i])
     i = i + 1
+
   end
   word
   else 
