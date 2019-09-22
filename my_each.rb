@@ -10,4 +10,5 @@ def my_each(word)
     word
   else 
   puts "This block should not run!"
+  end
 end
